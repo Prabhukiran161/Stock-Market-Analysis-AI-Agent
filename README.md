@@ -57,7 +57,7 @@ Stock-Market-AI-Agent/
 5. **API Development**: Provide REST endpoints for data retrieval.
 6. **Mobile App**: Handle push notifications and display market insights.
 
-## 🔍 Breaking Down the Problem
+## Breaking Down the Problem 🔍
 
 ### 🏛 Sub-Problem 1: Fetching Stock Market Index Data
 - Retrieve real-time stock data at predefined intervals.
@@ -118,9 +118,15 @@ uvicorn main:app --reload
 - Web dashboard for visualization
 - Custom user preferences for indices
 
-## Contributors 🤝
-- **[Your Name]** - Developer
-
 ## License 📜
 Licensed under the **MIT License**.
 
+## Show Some Love 🌟 
+
+⭐ If you like this project, give it a star on [GitHub](https://github.com/Prabhukiran161/Stock-Market-Analysis-AI-Agent.git)! 🚀🔥
+
+---
+
+## 📬 Contact
+- 📂 **GitHub Profile** – [Prabhu Kiran](https://github.com/Prabhukiran161)
+- 📧 Reach out at **prabhukiran161@gmail.com** for any queries or feedback.
