@@ -88,8 +88,8 @@ Stock-Market-AI-Agent/
 ### Backend Setup 🖥️
 ```bash
 # Clone repo
-git clone https://github.com/your-repo/stock-market-ai-agent.git
-cd stock-market-ai-agent
+git clone https://github.com/Prabhukiran161/Stock-Market-Analysis-AI-Agent.git
+cd Stock-Market-Analysis-AI-Agent
 
 # Create virtual environment
 python -m venv venv
